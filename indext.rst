@@ -1,6 +1,6 @@
 # EXT Torrents Proxy
 
-# Why Can’t I Reach EXT Torrents?
+Why Can’t I Reach EXT Torrents?
 
 There are a few reasons why you may not be able to get to EZTV when you want to download some content. Since it is a website, there is always the potential that it is not operating when you are looking for it. Perhaps they are moving the servers to a new location or something like that.
 
@@ -16,3 +16,7 @@ https://ext.to (Active since september 2018)
 
 https://extto.com (Active since may 2019)
 
+
+Status: 
+
+https://ext-proxy.github.io/
