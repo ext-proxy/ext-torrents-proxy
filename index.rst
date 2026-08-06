@@ -12,9 +12,9 @@ You can always take advantage of the ext.to mirror and proxy sites that are avai
 
 Mirror list:
 
-https://ext2.to (Active since august 2026)
+https://ext.to (Active since September 2018)
 
-https://ext.to (Offline)
+https://ext2.to (Active since august 2026)
 
 https://extto.com (Active since may 2019)
 
